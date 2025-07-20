@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gouravmishra92
-- 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning now c language
+- 👀 I’m interested in MERN Stack Development
+- 🌱 I’m currently learning now Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
